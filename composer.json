@@ -38,6 +38,12 @@
         "source": "https://github.com/mosleh200989/zatca"
     },
     "minimum-stability": "stable",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mosleh200989/zatca-api.git"
+        }
+    ],
     "require": {
          "php": ">=8.1",
         "ext-fileinfo": "*",
