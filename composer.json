@@ -60,12 +60,12 @@
     },
     "autoload": {
         "psr-4": {
-            "mosleh200989\\ZATCA\\": "src/"
+            "Mosleh200989\\ZATCA\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "mosleh200989\\ZATCA\\Test\\": "tests/"
+            "Mosleh200989\\ZATCA\\Test\\": "tests/"
         }
     },
     "scripts": {
