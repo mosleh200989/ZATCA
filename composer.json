@@ -1,0 +1,74 @@
+{
+    "name": "mosleh200989/zatca",
+    "description": "An unofficial PHP library for generating ZATCA Fatoora e-invoices. This library facilitates the creation of compliant e-invoices, QR Codes, and certificates, as well as the submission of e-invoices to ZATCA's servers. It provides developers with an easy-to-use, customizable, and robust toolkit to integrate and automate ZATCA e-invoicing processes in PHP applications.",
+    "type": "library",
+    "keywords": [
+         "ZATCA",
+        "invoice",
+        "e-invoice",
+        "fatoora",
+        "ublinvoice",
+        "ubl invoice",
+        "zatca-xml",
+        "electronic invoice",
+        "digital invoice",
+        "qr-code",
+        "xml",
+        "xml invoice"
+    ],
+    "homepage": "https://github.com/mosleh200989/zatca",
+    "license": "MIT",
+    "authors": [
+       {
+            "name": "Saleh7",
+            "homepage": "https://github.com/Saleh7"
+        },
+        {
+            "name": "sevaske",
+            "homepage": "https://github.com/sevaske"
+        },
+        {
+            "name": "Mosleh Team",
+            "email": "support@aisoftz.com",
+            "homepage": "https://aisoftz.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/mosleh200989/zatca/issues",
+        "source": "https://github.com/mosleh200989/zatca"
+    },
+    "minimum-stability": "stable",
+    "require": {
+         "php": ">=8.1",
+        "ext-fileinfo": "*",
+        "ext-mbstring": "*",
+        "ext-dom": "*",
+        "ext-libxml": "*",
+        "ext-openssl": "*",
+        "ext-hash": "*",
+        "sabre/xml": "^4.0",
+        "psr/http-message": "^2.0",
+        "psr/http-client": "^1.0",
+        "phpseclib/phpseclib": "^3.0",
+        "sevaske/zatca-api": "^1.0"
+    },
+    "require-dev": {
+         "phpunit/phpunit": "^9.5",
+        "guzzlehttp/guzzle": "^7.9",
+        "phpstan/phpstan": "^2.1",
+        "laravel/pint": "^1.20"
+    },
+    "autoload": {
+        "psr-4": {
+            "mosleh200989\\ZATCA\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "mosleh200989\\ZATCA\\Test\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit"
+    }
+}
