@@ -1,11 +1,11 @@
 <?php
 
-namespace Saleh7\Zatca\Tests;
+namespace Mosleh200989\ZATCA\Tests;
 
 use phpseclib3\Crypt\Common\PrivateKey;
 use PHPUnit\Framework\TestCase;
-use Saleh7\Zatca\Helpers\Certificate;
-use Saleh7\Zatca\Helpers\InvoiceSignatureBuilder;
+use Mosleh200989\ZATCA\Helpers\Certificate;
+use Mosleh200989\ZATCA\Helpers\InvoiceSignatureBuilder;
 
 /**
  * DummyCertificate is a simple subclass of Certificate returning fixed dummy values.

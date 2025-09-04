@@ -1,21 +1,21 @@
 <?php
 
-namespace Saleh7\Zatca\Helpers;
+namespace Mosleh200989\ZATCA\Helpers;
 
 use DOMDocument;
 use DOMElement;
 use DOMException;
 use DOMXPath;
 use InvalidArgumentException;
-use Saleh7\Zatca\Tags\CertificateSignature;
-use Saleh7\Zatca\Tags\InvoiceDate;
-use Saleh7\Zatca\Tags\InvoiceDigitalSignature;
-use Saleh7\Zatca\Tags\InvoiceHash;
-use Saleh7\Zatca\Tags\InvoiceTaxAmount;
-use Saleh7\Zatca\Tags\InvoiceTotalAmount;
-use Saleh7\Zatca\Tags\PublicKey;
-use Saleh7\Zatca\Tags\Seller;
-use Saleh7\Zatca\Tags\TaxNumber;
+use Mosleh200989\ZATCA\Tags\CertificateSignature;
+use Mosleh200989\ZATCA\Tags\InvoiceDate;
+use Mosleh200989\ZATCA\Tags\InvoiceDigitalSignature;
+use Mosleh200989\ZATCA\Tags\InvoiceHash;
+use Mosleh200989\ZATCA\Tags\InvoiceTaxAmount;
+use Mosleh200989\ZATCA\Tags\InvoiceTotalAmount;
+use Mosleh200989\ZATCA\Tags\PublicKey;
+use Mosleh200989\ZATCA\Tags\Seller;
+use Mosleh200989\ZATCA\Tags\TaxNumber;
 use WeakMap;
 
 /**

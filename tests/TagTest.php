@@ -1,18 +1,18 @@
 <?php
 
-namespace Saleh7\Zatca\Tests;
+namespace Mosleh200989\ZATCA\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Saleh7\Zatca\Tag;
-use Saleh7\Zatca\Tags\CertificateSignature;
-use Saleh7\Zatca\Tags\InvoiceDate;
-use Saleh7\Zatca\Tags\InvoiceDigitalSignature;
-use Saleh7\Zatca\Tags\InvoiceHash;
-use Saleh7\Zatca\Tags\InvoiceTaxAmount;
-use Saleh7\Zatca\Tags\InvoiceTotalAmount;
-use Saleh7\Zatca\Tags\PublicKey;
-use Saleh7\Zatca\Tags\Seller;
-use Saleh7\Zatca\Tags\TaxNumber;
+use Mosleh200989\ZATCA\Tag;
+use Mosleh200989\ZATCA\Tags\CertificateSignature;
+use Mosleh200989\ZATCA\Tags\InvoiceDate;
+use Mosleh200989\ZATCA\Tags\InvoiceDigitalSignature;
+use Mosleh200989\ZATCA\Tags\InvoiceHash;
+use Mosleh200989\ZATCA\Tags\InvoiceTaxAmount;
+use Mosleh200989\ZATCA\Tags\InvoiceTotalAmount;
+use Mosleh200989\ZATCA\Tags\PublicKey;
+use Mosleh200989\ZATCA\Tags\Seller;
+use Mosleh200989\ZATCA\Tags\TaxNumber;
 
 /**
  * Test class for Tag and its derived classes.

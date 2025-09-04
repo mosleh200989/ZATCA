@@ -1,6 +1,6 @@
 <?php
 
-namespace Saleh7\Zatca\Exceptions;
+namespace Mosleh200989\ZATCA\Exceptions;
 
 use Exception;
 use Throwable;

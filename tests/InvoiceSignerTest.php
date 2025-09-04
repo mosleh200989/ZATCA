@@ -2,13 +2,13 @@
 
 declare(strict_types=1);
 
-namespace Saleh7\Zatca\Tests;
+namespace Mosleh200989\ZATCA\Tests;
 
 use phpseclib3\Crypt\Common\PrivateKey;
 use phpseclib3\Crypt\Common\PublicKey;
 use PHPUnit\Framework\TestCase;
-use Saleh7\Zatca\Helpers\Certificate;
-use Saleh7\Zatca\InvoiceSigner;
+use Mosleh200989\ZATCA\Helpers\Certificate;
+use Mosleh200989\ZATCA\InvoiceSigner;
 
 /**
  * DummyCertificate simulates a certificate with fixed dummy values.

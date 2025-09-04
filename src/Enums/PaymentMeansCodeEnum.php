@@ -1,6 +1,6 @@
 <?php
 
-namespace Saleh7\Zatca\Enums;
+namespace Mosleh200989\ZATCA\Enums;
 
 enum PaymentMeansCodeEnum: string
 {

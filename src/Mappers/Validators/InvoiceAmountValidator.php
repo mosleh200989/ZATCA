@@ -1,6 +1,6 @@
 <?php
 
-namespace Saleh7\Zatca\Mappers\Validators;
+namespace Mosleh200989\ZATCA\Mappers\Validators;
 
 use InvalidArgumentException;
 

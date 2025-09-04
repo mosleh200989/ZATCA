@@ -1,6 +1,6 @@
 <?php
 
-namespace Saleh7\Zatca;
+namespace Mosleh200989\ZATCA;
 
 use Exception;
 use InvalidArgumentException;
@@ -8,7 +8,7 @@ use Sabre\Xml\Reader;
 use Sabre\Xml\Writer;
 use Sabre\Xml\XmlDeserializable;
 use Sabre\Xml\XmlSerializable;
-use Saleh7\Zatca\Exceptions\ZatcaStorageException;
+use Mosleh200989\ZATCA\Exceptions\ZatcaStorageException;
 
 use function Sabre\Xml\Deserializer\mixedContent;
 

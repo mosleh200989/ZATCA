@@ -1,8 +1,8 @@
 <?php
 
-namespace Saleh7\Zatca;
+namespace Mosleh200989\ZATCA;
 
-use Saleh7\Zatca\Exceptions\ZatcaStorageException;
+use Mosleh200989\ZATCA\Exceptions\ZatcaStorageException;
 
 class Storage
 {

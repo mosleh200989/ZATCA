@@ -1,6 +1,6 @@
 <?php
 
-namespace Saleh7\Zatca;
+namespace Mosleh200989\ZATCA;
 
 use Sabre\Xml\Reader;
 use Sabre\Xml\Writer;

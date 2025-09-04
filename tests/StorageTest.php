@@ -1,10 +1,10 @@
 <?php
 
-namespace Saleh7\Zatca\Tests;
+namespace Mosleh200989\ZATCA\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Saleh7\Zatca\Exceptions\ZatcaStorageException;
-use Saleh7\Zatca\Storage;
+use Mosleh200989\ZATCA\Exceptions\ZatcaStorageException;
+use Mosleh200989\ZATCA\Storage;
 
 class StorageTest extends TestCase
 {

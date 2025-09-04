@@ -1,9 +1,9 @@
 <?php
 
-namespace Saleh7\Zatca\Tests;
+namespace Mosleh200989\ZATCA\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Saleh7\Zatca\Helpers\InvoiceExtension;
+use Mosleh200989\ZATCA\Helpers\InvoiceExtension;
 
 class InvoiceExtensionTest extends TestCase
 {

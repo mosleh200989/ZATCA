@@ -1,6 +1,6 @@
 <?php
 
-namespace Saleh7\Zatca;
+namespace Mosleh200989\ZATCA;
 
 /**
  * Class InvoiceTypeCode

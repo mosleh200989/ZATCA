@@ -1,32 +1,32 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use Saleh7\Zatca\AdditionalDocumentReference;
-use Saleh7\Zatca\Address;
-use Saleh7\Zatca\AllowanceCharge;
-use Saleh7\Zatca\Attachment;
-use Saleh7\Zatca\ClassifiedTaxCategory;
-use Saleh7\Zatca\ExtensionContent;
-use Saleh7\Zatca\GeneratorInvoice;
-use Saleh7\Zatca\Invoice;
-use Saleh7\Zatca\InvoiceLine;
-use Saleh7\Zatca\InvoiceType;
-use Saleh7\Zatca\Item;
-use Saleh7\Zatca\LegalEntity;
-use Saleh7\Zatca\LegalMonetaryTotal;
-use Saleh7\Zatca\Party;
-use Saleh7\Zatca\PartyTaxScheme;
-use Saleh7\Zatca\Price;
-use Saleh7\Zatca\Signature;
-use Saleh7\Zatca\SignatureInformation;
-use Saleh7\Zatca\TaxCategory;
-use Saleh7\Zatca\TaxScheme;
-use Saleh7\Zatca\TaxSubTotal;
-use Saleh7\Zatca\TaxTotal;
-use Saleh7\Zatca\UBLDocumentSignatures;
-use Saleh7\Zatca\UBLExtension;
-use Saleh7\Zatca\UBLExtensions;
-use Saleh7\Zatca\UnitCode;
+use Mosleh200989\ZATCA\AdditionalDocumentReference;
+use Mosleh200989\ZATCA\Address;
+use Mosleh200989\ZATCA\AllowanceCharge;
+use Mosleh200989\ZATCA\Attachment;
+use Mosleh200989\ZATCA\ClassifiedTaxCategory;
+use Mosleh200989\ZATCA\ExtensionContent;
+use Mosleh200989\ZATCA\GeneratorInvoice;
+use Mosleh200989\ZATCA\Invoice;
+use Mosleh200989\ZATCA\InvoiceLine;
+use Mosleh200989\ZATCA\InvoiceType;
+use Mosleh200989\ZATCA\Item;
+use Mosleh200989\ZATCA\LegalEntity;
+use Mosleh200989\ZATCA\LegalMonetaryTotal;
+use Mosleh200989\ZATCA\Party;
+use Mosleh200989\ZATCA\PartyTaxScheme;
+use Mosleh200989\ZATCA\Price;
+use Mosleh200989\ZATCA\Signature;
+use Mosleh200989\ZATCA\SignatureInformation;
+use Mosleh200989\ZATCA\TaxCategory;
+use Mosleh200989\ZATCA\TaxScheme;
+use Mosleh200989\ZATCA\TaxSubTotal;
+use Mosleh200989\ZATCA\TaxTotal;
+use Mosleh200989\ZATCA\UBLDocumentSignatures;
+use Mosleh200989\ZATCA\UBLExtension;
+use Mosleh200989\ZATCA\UBLExtensions;
+use Mosleh200989\ZATCA\UnitCode;
 
 final class InvoiceTest extends TestCase
 {

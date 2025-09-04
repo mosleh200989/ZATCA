@@ -1,9 +1,9 @@
 <?php
 
-namespace Saleh7\Zatca\Tests\Mappers;
+namespace Mosleh200989\ZATCA\Tests\Mappers;
 
 use PHPUnit\Framework\TestCase;
-use Saleh7\Zatca\Mappers\Validators\InvoiceAmountValidator;
+use Mosleh200989\ZATCA\Mappers\Validators\InvoiceAmountValidator;
 
 /**
  * Class InvoiceAmountValidatorTest

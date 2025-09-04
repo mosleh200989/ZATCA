@@ -1,6 +1,6 @@
 <?php
 
-namespace Saleh7\Zatca\Helpers;
+namespace Mosleh200989\ZATCA\Helpers;
 
 use DOMException;
 

@@ -1,13 +1,13 @@
 <?php
 
-namespace Saleh7\Zatca;
+namespace Mosleh200989\ZATCA;
 
 use DOMException;
-use Saleh7\Zatca\Exceptions\ZatcaStorageException;
-use Saleh7\Zatca\Helpers\Certificate;
-use Saleh7\Zatca\Helpers\InvoiceExtension;
-use Saleh7\Zatca\Helpers\InvoiceSignatureBuilder;
-use Saleh7\Zatca\Helpers\QRCodeGenerator;
+use Mosleh200989\ZATCA\Exceptions\ZatcaStorageException;
+use Mosleh200989\ZATCA\Helpers\Certificate;
+use Mosleh200989\ZATCA\Helpers\InvoiceExtension;
+use Mosleh200989\ZATCA\Helpers\InvoiceSignatureBuilder;
+use Mosleh200989\ZATCA\Helpers\QRCodeGenerator;
 
 class InvoiceSigner
 {

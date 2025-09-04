@@ -1,10 +1,10 @@
 <?php
 
-namespace Saleh7\Zatca\Tests\Mappers;
+namespace Mosleh200989\ZATCA\Tests\Mappers;
 
 use PHPUnit\Framework\TestCase;
-use Saleh7\Zatca\Invoice;
-use Saleh7\Zatca\Mappers\InvoiceMapper;
+use Mosleh200989\ZATCA\Invoice;
+use Mosleh200989\ZATCA\Mappers\InvoiceMapper;
 
 /**
  * Class InvoiceMapperTest

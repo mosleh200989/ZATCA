@@ -1,10 +1,10 @@
 <?php
 
-namespace Saleh7\Zatca\Tests\Integration;
+namespace Mosleh200989\ZATCA\Tests\Integration;
 
 use PHPUnit\Framework\TestCase;
-use Saleh7\Zatca\GeneratorInvoice;
-use Saleh7\Zatca\Mappers\InvoiceMapper;
+use Mosleh200989\ZATCA\GeneratorInvoice;
+use Mosleh200989\ZATCA\Mappers\InvoiceMapper;
 
 /**
  * Class InvoiceIntegrationTest

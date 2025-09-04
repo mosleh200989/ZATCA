@@ -1,10 +1,10 @@
 <?php
 
-namespace Saleh7\Zatca\Tests;
+namespace Mosleh200989\ZATCA\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Saleh7\Zatca\CertificateBuilder;
-use Saleh7\Zatca\Exceptions\CertificateBuilderException;
+use Mosleh200989\ZATCA\CertificateBuilder;
+use Mosleh200989\ZATCA\Exceptions\CertificateBuilderException;
 
 final class CertificateBuilderTest extends TestCase
 {
